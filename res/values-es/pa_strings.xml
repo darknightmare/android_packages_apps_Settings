@@ -183,4 +183,13 @@
   <string name="edge_gesture_service_summary">No enviar gestos de eventos de toque de las barras de navegación y estado a las aplicaciones</string>
   <string name="kill_app_longpress_back">Terminar aplicaciones con el botón back</string>
   <string name="kill_app_longpress_back_summary">Terminar la aplicación activa mediante una pulsación larga en el botón back</string>
+  <string name="dynamic_system_bars_category_title">Dynamic system bars</string>
+  <string name="dynamic_status_bar_title">Dynamic status bar</string>
+  <string name="dynamic_status_bar_summary">Actualizar automáticamente el fondo de la barra de estado</string>
+  <string name="dynamic_navigation_bar_title">Dynamic navigation bar</string>
+  <string name="dynamic_navigation_bar_summary">Actualizar automáticamente el fondo de la barra de navegación</string>
+  <string name="dynamic_system_bars_gradient_title">System bar gradient</string>
+  <string name="dynamic_system_bars_gradient_summary">Superponer un gradiente en las barras del sistema</string>
+  <string name="dynamic_status_bar_filter_title">Darker status bar</string>
+  <string name="dynamic_status_bar_filter_summary">Superponer un filtro oscuro en las barras del sistema</string>
 </resources>
